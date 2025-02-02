@@ -1,0 +1,26 @@
+{
+  "name": "cowsay-giozeikidze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "help": "cowsay -h",
+    "cows": "cowsay -l",
+    "cowsay": "cowsay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-giozeikidze.git"
+  },
+  "keywords": [],
+  "author": "Giorgi Zeikidze <gzei4366@stu.raritanval.edu> (https://github.com/giozeikidze)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-giozeikidze/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-giozeikidze#readme",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
